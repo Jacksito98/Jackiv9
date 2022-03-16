@@ -53,7 +53,6 @@ const { getBuffer, getGroupAdmins, generateMessageID, getRandom, runtime, pickRa
 const { fetchJson, getBase64, kyun, createExif } = require('./lib/fetch')
 const { color, bgcolor } = require('./lib/color')
 const { mess } = require('./message/mess')
-const { Toxic } = require('./lib/Toxic.js')
 const { cmdadd } = require('./lib/totalcmd.js')
 const { uptotele, uploadFile, RESTfulAPI, uploadImages } = require('./lib/uploadimage')
 const { lirikLagu} = require('./lib/lirik.js')

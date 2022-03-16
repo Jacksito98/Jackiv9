@@ -185,7 +185,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 
     
 	bosco.on('chat-update', async (message) => {
-		require('./Bosco.js')(bosco, message)
+		require('./Samu330.js')(bosco, message)
 	})
 }
 

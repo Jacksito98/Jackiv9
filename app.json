@@ -1,9 +1,9 @@
 {
-  "name": "Bosco",
-  "description": "Bosco is a whatsapp bot made by @pepe sir with baileys",
-  "repository": "https://github.com/pepesir/Bosco",
-  "logo": "https://telegra.ph/file/f40d0ef77439f516c050f.jpg",
-  "keywords": ["bosco", "nodejs", "bot", "whatsapp bot", "whatsapp automation"],
+  "name": "Nyan-V2",
+  "description": "Esta es la version 2 de NyanBot, un increible bot para WhatsApp",
+  "repository": "https://github.com/Samu330/Nyan2",
+  "logo": "https://i.pinimg.com/originals/e4/8b/19/e48b194083622deba99454f55cf1a781.gif",
+  "keywords": ["Samu330", "nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"

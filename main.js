@@ -1,10 +1,3 @@
-/* 
-Don't change credits🥲🚶
-Sourcecode https://github.com/pepesir/Bosco
-Want to recode? yes, it's up to you as long as you don't change the watermark
-Don't sell the SC 😐👌
-*/
-
 const {
 WAConnection,
    MessageType,
@@ -42,8 +35,8 @@ baterai = 'unknown'
 charging = 'unknown'
 
 
-require('./Bosco.js')
-nocache('../Bosco.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
+require('./Samu330.js')
+nocache('../Samu330.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
 require('./message/help.js')
 nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
          

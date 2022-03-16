@@ -34,7 +34,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 <div align="left">
 
-* El primer paso es pegar tu ID de usuario en <a href="https://github.com/Samu330/Nyan2/blob/master/Denis.json">Sm330ID.json</a> , Despues sige estos comandos:
+* El primer paso es pegar tu ID de usuario en <a href="https://github.com/Samu330/Nyan2/blob/master/Sm330ID.json">Sm330ID.json</a> , Despues sige estos comandos:
  
 * OJO : TIENES QUE FORKEAR EL REPOSITORIO, NO DEBES USAR EL MIO !!
 
